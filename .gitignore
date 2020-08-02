@@ -24,9 +24,15 @@
 *.lai
 *.la
 *.a
-*.lib
 
 # Executables
 *.exe
 *.out
 *.app
+.gitattributes
+.vs/LearningOpenGL/v16/.suo
+*.db
+.vs/LearningOpenGL/v16/Preview/ipch/AutoPCH/ee06f4d0579d7d00/LEARNINGOPENGL.ipch
+/.vs/LearningOpenGL/v16/Preview
+/Debug
+/.gitignore
